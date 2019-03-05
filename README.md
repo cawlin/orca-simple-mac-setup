@@ -2,12 +2,14 @@
 
 This very simple set of steps will help you get Orca set up and making sounds with a simple software synthesizer. This is intended for Mac users who have little knowledge of making music on computers. When you complete these steps you will have everythng you need to follow Allieway Audio's [ORCA Sequencer Intro Youtube Video](https://www.youtube.com/watch?v=RaI_TuISSJE&t=116s).
 
-Here's what we'll cover:
+Here's what we'll cover"
 
 1. Download Orca
 2. Download a Software Synth
 3. Setup MIDI Bus
 4. Connect Orca and a Software Synth
+
+There are many more complex music making enviroments you can hook Orca up to but this will help you get your feet wet very quickly.
 
 # Download Orca
 
@@ -70,6 +72,6 @@ Now open Orca. If you had it open already close and reopen it. In the toolbar yo
 
 You are now ready to make a sounds! Check out Allieway Audio's [ORCA Sequencer Intro Youtube Video](https://www.youtube.com/watch?v=RaI_TuISSJE&t=116s) or the [Orca documentation](https://github.com/hundredrabbits/Orca).
 
-Have fun! You can use this same technique for setting up more complex Virtual Synthesizer enviroments or DAWs like Ableton. Each tool may have require slightly different steps but the principles are the same.
+Have fun!
 
 ![Midi Setup](https://github.com/cawlin/orca-simple-mac-setup/blob/master/images/orca-dex-gif.gif)
