@@ -70,6 +70,6 @@ Now open Orca. If you had it open already close and reopen it. In the toolbar yo
 
 You are now ready to make a sounds! Check out Allieway Audio's [ORCA Sequencer Intro Youtube Video](https://www.youtube.com/watch?v=RaI_TuISSJE&t=116s) or the [Orca documentation](https://github.com/hundredrabbits/Orca).
 
-Have fun! You can use this same technique for setting up more complex Virtual Synthesizer enviroments or DAWs like Ableton. Each tool may have require slightly different steps but the princples are the same.
+Have fun! You can use this same technique for setting up more complex Virtual Synthesizer enviroments or DAWs like Ableton. Each tool may have require slightly different steps but the principles are the same.
 
 ![Midi Setup](https://github.com/cawlin/orca-simple-mac-setup/blob/master/images/orca-dex-gif)
