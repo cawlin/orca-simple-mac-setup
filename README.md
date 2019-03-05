@@ -1,6 +1,8 @@
-# Setting Up [Orca](https://github.com/hundredrabbits/Orca) on Mac OS
+# Setting Up Orca Live Programming Enviroment on Mac OS for Beginners
 
-This very simple set of steps will help you get Orca set up and making sounds with a simple software synthesizer. This is intended for Mac users who have little knowledge of making music on computers and just need to get the very basics set up. When you complete these steps you will have everythng you need to follow Allieway Audio's [ORCA Sequencer Intro Youtube Video](https://www.youtube.com/watch?v=RaI_TuISSJE&t=116s).
+This very simple set of steps will help you get Orca set up and making sounds with a simple software synthesizer. This is intended for Mac users who have little knowledge of making music on computers. When you complete these steps you will have everythng you need to follow Allieway Audio's [ORCA Sequencer Intro Youtube Video](https://www.youtube.com/watch?v=RaI_TuISSJE&t=116s).
+
+Here's what we'll cover:
 
 1. Download Orca
 2. Download a Software Synth
@@ -9,14 +11,14 @@ This very simple set of steps will help you get Orca set up and making sounds wi
 
 # Download Orca
 
-Head to the Orca Itch.io page and download the app. Consider making a donation because the program is neat.
+Head to the Orca Itch.io page and download the app. Consider making a donation because the program is neat. Install the app like any other mac app.
 https://hundredrabbits.itch.io/orca
 
 # Download a Software Synth
 
 Orca does not make any sounds itself. It controls other programs or physical instrument through [Midi](https://en.wikipedia.org/wiki/MIDI). To make sounds and music we need an instrument for Orca to control.
 
-To quickly get up and running lets use Dexed - a plugin synth that is closely modeled on the Yamaha DX7
+To quickly get up and running lets use Dexed - a plugin synth that is closely modeled on the Yamaha DX7. Download and install.
 [Dexed](https://asb2m10.github.io/dexed/)
 
 # Set Up Midi
