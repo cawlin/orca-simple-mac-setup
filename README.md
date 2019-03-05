@@ -72,4 +72,4 @@ You are now ready to make a sounds! Check out Allieway Audio's [ORCA Sequencer I
 
 Have fun! You can use this same technique for setting up more complex Virtual Synthesizer enviroments or DAWs like Ableton. Each tool may have require slightly different steps but the principles are the same.
 
-![Midi Setup](https://github.com/cawlin/orca-simple-mac-setup/blob/master/images/orca-dex.gif)
+![Midi Setup](https://github.com/cawlin/orca-simple-mac-setup/blob/master/images/orca-dex-gif.gif)
