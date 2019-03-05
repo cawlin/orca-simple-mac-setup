@@ -64,7 +64,7 @@ At the bottom of the window is "Active MIDI Inputs" and the MIDI Bus we put onli
 
 You can close the window and feel free to hit the virtual keyboard keys with your mouse to make sure sound is working before going into Orca.
 
-Now open Orca. If you had it open already close and reopen it. In the toolbar you should see "Midi" as an option. By default the Midi bus we put online should be selected - you can tell because the name will be in the bottom right hand side of the Orca window. You can also manually select Midi if you have multiple connected sources by clicking on the toolbar.
+Now open Orca. If you had it open already close and reopen it. In the toolbar you should see "Midi" as an option. By default the Midi bus we put online should be selected - you can tell because the name will be in the bottom right of the window where it once said "No Midi".
 
 ![Midi Setup](https://github.com/cawlin/orca-simple-mac-setup/blob/master/images/8.png)
 
@@ -73,18 +73,3 @@ You are now ready to make a sounds! Check out Allieway Audio's [ORCA Sequencer I
 Have fun! You can use this same technique for setting up more complex Virtual Synthesizer enviroments or DAWs like Ableton. Each tool may have require slightly different steps but the princples are the same.
 
 ![Midi Setup](https://github.com/cawlin/orca-simple-mac-setup/blob/master/images/orca-dex-gif)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
