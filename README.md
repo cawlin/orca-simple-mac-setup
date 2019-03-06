@@ -43,11 +43,7 @@ You will now see a window like this:
 
 ![Midi Setup](https://github.com/cawlin/orca-simple-mac-setup/blob/master/images/4.png)
 
-Double click on "IAC Driver" and you will see a window like this:
-
-![Midi Setup](https://github.com/cawlin/orca-simple-mac-setup/blob/master/images/6.png)
-
-You only need to do a single thing - check the "Device is Online" checkbox.
+Double click on "IAC Driver" and you will see a window like this. You only need to do a single thing - check the "Device is Online" checkbox.
 
 ![Midi Setup](https://github.com/cawlin/orca-simple-mac-setup/blob/master/images/5.png)
 
@@ -60,7 +56,7 @@ Start by opening Dexed. In the top left hand corner there is an "options" button
 ![Midi Setup](https://github.com/cawlin/orca-simple-mac-setup/blob/master/images/7a.png)
 
 
-At the bottom of the window is "Active MIDI Inputs" and the MIDI Bus we put online should be seen.
+At the bottom of the window is "Active MIDI Inputs" and the MIDI Bus we put online should be seen. Make sure it is checked.
 
 ![Midi Setup](https://github.com/cawlin/orca-simple-mac-setup/blob/master/images/7.png)
 
